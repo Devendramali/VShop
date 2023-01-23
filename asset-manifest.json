@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Vshop/static/css/main.6870d555.css",
+    "main.js": "/Vshop/static/js/main.89574fb4.js",
+    "static/js/787.d89a6ad3.chunk.js": "/Vshop/static/js/787.d89a6ad3.chunk.js",
+    "static/media/logo.svg": "/Vshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Vshop/index.html",
+    "main.6870d555.css.map": "/Vshop/static/css/main.6870d555.css.map",
+    "main.89574fb4.js.map": "/Vshop/static/js/main.89574fb4.js.map",
+    "787.d89a6ad3.chunk.js.map": "/Vshop/static/js/787.d89a6ad3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6870d555.css",
+    "static/js/main.89574fb4.js"
+  ]
+}
